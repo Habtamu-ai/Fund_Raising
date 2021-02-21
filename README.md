@@ -5,7 +5,7 @@ By analyzing the kickarter data we plan to help Louis launch her first ever succ
  
 ## Analysis of Outcomes Based on Launch Date
 By using the kickstart data we are planning to do analysis based on the launch date. For that we had to create a year column by using Year() function on using ” Lunch _at” column. From the big Kickstarter data we created a small table to see if Launch date has really affected the fundraising outcomes.We filtered and created this table to closely see the effect of the launch date on the outcomes of the fundraising. As we can clearly see from the tables December and January are the most successful months and February and March stands top on the failed column. From this we might suggest, it is good to Launch our fundraising in December and January. One possible reason for this might be people are in a holiday mood and would like to spend more, go out and watch Ttheater and buy and give gifs. However, most failed fundraisings happened to be in February and March could possibly explained by the trauma of too much expense on the previous two months and the winter weather during this time might affect people from going out.
-###CONCLUSION
+### CONCLUSION
 The two main conclusion drown from this table analysis are
 1.	 Its good to launch our fund raising on theatre on December and January.
 2.	 It would also be advisable to consider high failure rate in February and March.
