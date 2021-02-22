@@ -14,6 +14,8 @@ The two main conclusion drown from this table analysis are
 
 ## Analysis of Outcomes Based on Goals
 Our second analysis focuses on the goal that was set to achieve by USD on the fundraisings. For this we are going to present the chart that was created from the kickstart data set based on the amount of dollars that was set to raise. As we can see in our chart "outcomes based on goals" projects that had a goal of above $45000 fad failed miserably. On the other side, projects that was set to raise between $ 25000 and $30000 was very successful. In addition, 55% of the them was successful among those who planed to raise l between 5000 and 10000. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78656720/108663125-ce9cc480-749d-11eb-8e1a-dc5aa3d51850.png)
+
 ### Conclusion
 Projects that had goal above $45000 was unsuccessful. So it is good for louis to think the amount of dollar that are not too big or to less. 
 I would assume the data has a limitation on missing the economic situation of the countries. And there currencies purchasing power.
