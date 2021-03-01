@@ -13,7 +13,8 @@ Using launch date,  we aim  to identify the most successful month in fund raisin
 ## Analysis of Outcomes Based on Goals
 Here we look at most successful fundraisings based on goal. To do so, first, we created a pivot table for goals and amount of fundraising. Second, we produce the chart below. We find that projects aiming at fundraising between $25,000 and $30,000 is the most successful.Wheras, fundraising with a goal of above $45,000 is the least successful. As such, we suggest Louis to consider the fundraising goail between $25,000 and $30,000.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78656720/108663125-ce9cc480-749d-11eb-8e1a-dc5aa3d51850.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78656720/109451372-4a0cf180-7a1b-11eb-8b25-8ace5c8435c1.png)
+
 
 ### CONCLUSION
 We analyse the kickstart data to identify the most successful fundraising based on 'launch' date and 'goal'. We find that fundraising in December and January is the most successful period while February and March are the least succesful months. Looking at the fundraising based on goal, $25000-$30,000 is found to be the most successful. Therefore, Louis may consider December and January as a fundrasing period. She might also set her goal $25000-$30,000.
