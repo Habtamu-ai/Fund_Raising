@@ -6,9 +6,9 @@ The main objective of this project is to  analyze the kickstarter data and under
 ## Analysis of Outcomes Based on Launch Date
 Using launch date,  we aim  to identify the most successful month in fund raising. To do so, we first create a year variable  ('Year()' function) using  ” Lunch _at” column. Second, we use pivot to create a small table and examine if the Launch date has affected the fundraising outcomes. Third, we filtered and created the table below to closely see the effect of the launch date on the outcomes of the fundraising. We find that December and January are the most successful months while February and March are the least successful.One possible explanation for the high fundrising on Decemeber and January would be these months are holidays seasons and people tend to spend much.In contrast, in February and March people may not spent much and may not contribute for fundraising as they have already spent in the previous months. In addition, during these months most people may stay at home until summer comes. As such,Louis should launch her fundraising in December and January.
 
-<img width="576" alt="Table _Outcome_vs Launch date" src="https://user-images.githubusercontent.com/78656720/108664171-30f6c480-74a0-11eb-9f30-5fe6d7b73b78.png">
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78656720/108662681-da3bbb80-749c-11eb-809e-facbc6f3cb51.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78656720/109451317-2ba6f600-7a1b-11eb-9b99-5bf88e15fee0.png)
+
 
 ## Analysis of Outcomes Based on Goals
 Here we look at most successful fundraisings based on goal. To do so, first, we created a pivot table for goals and amount of fundraising. Second, we produce the chart below. We find that projects aiming at fundraising between $25,000 and $30,000 is the most successful.Wheras, fundraising with a goal of above $45,000 is the least successful. As such, we suggest Louis to consider the fundraising goail between $25,000 and $30,000.
