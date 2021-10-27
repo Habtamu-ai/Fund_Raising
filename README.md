@@ -1,6 +1,6 @@
 # Fund Raising
 # Overview
-The main objective of this project is to  analyze the kickstarter data and understand the  different campaigns fared in relation to their launch dates and their funding goals. For this,  we use historical data of fund rising covering  9 years from 21 different countries.  Below, we analyse the data and recommend Louis the most successful fundraising based on  'launch' date and 'goal'.
+The main objective of this project is to  analyze the fundraizing data and understand the  different campaigns fared in relation to their launch dates and their funding goals. For this,  we use historical data of fund rising covering  9 years from 21 different countries.  Below, we analyse the data and recommend Louis the most successful fundraising based on  'launch' date and 'goal'.
 
  
 ## Analysis of Outcomes Based on Launch Date
